@@ -1,1 +1,1 @@
-# Fourier-Transform-Instrument-Identifier-Level-2-
+# Fourier Transform Instrument Identifier (Level 2)
